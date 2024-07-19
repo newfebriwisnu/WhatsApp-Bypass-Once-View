@@ -1,0 +1,3 @@
+- Clone this repo
+- Visit chrome://extensions and enable Developer Mode
+- Drag and Drop folder to Extensions Page
