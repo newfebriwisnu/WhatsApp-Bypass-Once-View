@@ -1,0 +1,21 @@
+{
+   "background": {
+      "service_worker": "service_worker.js"
+   },
+   "content_scripts": [ {
+      "js": [ "injector.js" ],
+      "matches": [ "https://web.whatsapp.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "View Once Bypass v3 - 0xFeb",
+   "icons": {
+      "128": "./icon.png"
+   },
+   "manifest_version": 3,
+   "name": "View Once Bypass v3 - 0xFeb",
+   "version": "6.9",
+   "web_accessible_resources": [ {
+      "matches": [ "https://web.whatsapp.com/*" ],
+      "resources": [ "script.js" ]
+   } ]
+}
