@@ -1,108 +1,70 @@
-const _0x1756f5 = _0x402e;
-(function (_0x2d183c, _0x2c9cb0) {
-  const _0x1950dd = _0x402e,
-    _0x384e1e = _0x2d183c();
+const _0x35b6dc = _0x344c;
+(function (_0x258aaf, _0x5b3dce) {
+  const _0x2c75ce = _0x344c,
+    _0x5bea76 = _0x258aaf();
   while (!![]) {
     try {
-      const _0x5e9053 =
-        (-parseInt(_0x1950dd(0x179)) / 0x1) *
-          (-parseInt(_0x1950dd(0x16f)) / 0x2) +
-        parseInt(_0x1950dd(0x186)) / 0x3 +
-        (-parseInt(_0x1950dd(0x180)) / 0x4) *
-          (parseInt(_0x1950dd(0x16b)) / 0x5) +
-        (-parseInt(_0x1950dd(0x17c)) / 0x6) *
-          (-parseInt(_0x1950dd(0x173)) / 0x7) +
-        -parseInt(_0x1950dd(0x184)) / 0x8 +
-        -parseInt(_0x1950dd(0x16a)) / 0x9 +
-        (parseInt(_0x1950dd(0x185)) / 0xa) * (parseInt(_0x1950dd(0x16e)) / 0xb);
-      if (_0x5e9053 === _0x2c9cb0) break;
-      else _0x384e1e["push"](_0x384e1e["shift"]());
-    } catch (_0x360c31) {
-      _0x384e1e["push"](_0x384e1e["shift"]());
+      const _0x42d286 =
+        -parseInt(_0x2c75ce(0x1ad)) / 0x1 +
+        (parseInt(_0x2c75ce(0x1b1)) / 0x2) *
+          (parseInt(_0x2c75ce(0x1ae)) / 0x3) +
+        (-parseInt(_0x2c75ce(0x1af)) / 0x4) *
+          (-parseInt(_0x2c75ce(0x1b0)) / 0x5) +
+        (-parseInt(_0x2c75ce(0x1b2)) / 0x6) *
+          (-parseInt(_0x2c75ce(0x1bd)) / 0x7) +
+        parseInt(_0x2c75ce(0x1b8)) / 0x8 +
+        (-parseInt(_0x2c75ce(0x1b3)) / 0x9) *
+          (-parseInt(_0x2c75ce(0x1bb)) / 0xa) +
+        (-parseInt(_0x2c75ce(0x1b9)) / 0xb) *
+          (parseInt(_0x2c75ce(0x1bc)) / 0xc);
+      if (_0x42d286 === _0x5b3dce) break;
+      else _0x5bea76["push"](_0x5bea76["shift"]());
+    } catch (_0x12f590) {
+      _0x5bea76["push"](_0x5bea76["shift"]());
     }
   }
-})(_0x2772, 0x87ab1),
-  chrome[_0x1756f5(0x17e)]["onMessage"][_0x1756f5(0x17f)](
-    (_0x25b0a8, _0xa5d96f, _0x48d16f) => {
-      const _0x315c58 = _0x1756f5;
-      console[_0x315c58(0x174)](_0x315c58(0x17d) + _0x25b0a8);
-      _0x25b0a8 &&
-        document[_0x315c58(0x18a)][_0x315c58(0x187)]["add"](_0x315c58(0x182));
-      chrome[_0x315c58(0x16d)][_0x315c58(0x183)]() == _0x315c58(0x181) &&
-        document["body"][_0x315c58(0x187)][_0x315c58(0x170)](_0x315c58(0x169));
-      const _0x2eb3d1 = setInterval(() => {
-        const _0xcd9c3d = _0x315c58;
-        if (!document["querySelector"](_0xcd9c3d(0x176))) return;
-        clearInterval(_0x2eb3d1);
-        const _0x35fcfc = document[_0xcd9c3d(0x189)](_0xcd9c3d(0x16c));
-        (_0x35fcfc[_0xcd9c3d(0x177)] =
-          chrome["runtime"][_0xcd9c3d(0x168)]("script.js")),
-          ((_0x35fcfc["onload"] = function () {
-            const _0x425f77 = _0xcd9c3d;
-            this["remove"](), console["log"](_0x425f77(0x188));
-          }),
-          (document["head"] || document["documentElement"])[_0xcd9c3d(0x172)](
-            _0x35fcfc
-          ));
-      }, 0x64);
-    }
-  );
-const phone = localStorage[_0x1756f5(0x171)](_0x1756f5(0x17a))
-  ["split"](":")[0x0]
-  [_0x1756f5(0x17b)](/\D/g, "");
-function _0x402e(_0x171112, _0x487db6) {
-  const _0x277289 = _0x2772();
+})(_0x1cdb, 0xb8cdf);
+function _0x344c(_0x4096c5, _0x317a6b) {
+  const _0x1cdb27 = _0x1cdb();
   return (
-    (_0x402e = function (_0x402ef8, _0x2839ca) {
-      _0x402ef8 = _0x402ef8 - 0x168;
-      let _0x10f11e = _0x277289[_0x402ef8];
-      return _0x10f11e;
+    (_0x344c = function (_0x344cac, _0x401b7e) {
+      _0x344cac = _0x344cac - 0x1ac;
+      let _0x6514f3 = _0x1cdb27[_0x344cac];
+      return _0x6514f3;
     }),
-    _0x402e(_0x171112, _0x487db6)
+    _0x344c(_0x4096c5, _0x317a6b)
   );
 }
-function _0x2772() {
-  const _0x2d7fa4 = [
-    "addListener",
-    "4156REWuEq",
-    "pt-BR",
-    "ViewOnceBypassForWhatsappWeb",
-    "getUILanguage",
-    "2136920KSnTeC",
-    "92990wqtklB",
-    "829884mEuPpn",
-    "classList",
-    "View\x20Once\x20Bypass\x20=>\x20script\x20injected",
-    "createElement",
-    "body",
-    "getURL",
-    "ViewOnceBypassForWhatsappWebPTBR",
-    "6509475dAXgOH",
-    "2750IQvyVY",
+function _0x1cdb() {
+  const _0x13c39b = [
+    "8369760pSICzY",
+    "3311OyRmZe",
     "script",
-    "i18n",
-    "88vodhPg",
-    "8uZgxfj",
-    "add",
-    "getItem",
-    "appendChild",
-    "10101yGlcye",
+    "150zpJiqX",
+    "132852GQIPmE",
+    "1689695HaHfGq",
+    "MANTAP\x20SOB,\x20SCRIPTNYA\x20SUDAH\x20DI\x20INJECT",
+    "1376030kIgRAj",
+    "70701oYvJEJ",
+    "1131328ekaBrN",
+    "15ecUGwS",
+    "114mvZNAc",
+    "24Jzxrlj",
+    "757071LDYhit",
+    "script.js",
+    "createElement",
     "log",
-    "View\x20Once\x20Bypass\x20=>\x20checking\x20phone\x20number:\x20\x27",
-    "#side",
-    "src",
-    "sendMessage",
-    "219768ZBDZbI",
-    "last-wid-md",
-    "replace",
-    "3690FuMuXJ",
-    "View\x20Once\x20Bypass\x20=>\x20checking\x20subscription:\x20",
-    "runtime",
+    "onload",
   ];
-  _0x2772 = function () {
-    return _0x2d7fa4;
+  _0x1cdb = function () {
+    return _0x13c39b;
   };
-  return _0x2772();
+  return _0x1cdb();
 }
-console[_0x1756f5(0x174)](_0x1756f5(0x175) + phone + "\x27"),
-  chrome[_0x1756f5(0x17e)][_0x1756f5(0x178)](phone);
+const script = document[_0x35b6dc(0x1b5)](_0x35b6dc(0x1ba));
+(script["src"] = chrome["runtime"]["getURL"](_0x35b6dc(0x1b4))),
+  (script[_0x35b6dc(0x1b7)] = function () {
+    const _0x43b24d = _0x35b6dc;
+    console[_0x43b24d(0x1b6)](_0x43b24d(0x1ac));
+  }),
+  document["head"]["appendChild"](script);

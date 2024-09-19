@@ -4,16 +4,15 @@
    },
    "content_scripts": [ {
       "js": [ "injector.js" ],
-      "matches": [ "https://web.whatsapp.com/*" ],
-      "run_at": "document_end"
+      "matches": [ "https://web.whatsapp.com/*" ]
    } ],
-   "description": "View Once Bypass v3 - 0xFeb",
+   "description": "View Once Bypass v4 (2024-09) - 0xFeb",
    "icons": {
       "128": "./icon.png"
    },
    "manifest_version": 3,
-   "name": "View Once Bypass v3 - 0xFeb",
-   "version": "6.9",
+   "name": "View Once Bypass v4 (2024-09) - 0xFeb",
+   "version": "240918.1",
    "web_accessible_resources": [ {
       "matches": [ "https://web.whatsapp.com/*" ],
       "resources": [ "script.js" ]
