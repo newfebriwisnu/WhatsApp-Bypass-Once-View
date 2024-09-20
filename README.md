@@ -7,4 +7,6 @@ WhatsApp Bypass Once View Extensions
 \*note:
 View once can't be bypass when the sender is sending a view once media from WA WEB/Desktop, it only works when the sender is sending a view once media from WA Mobile App.
 
-tested on Chrome (Windows 10, Windows 11)
+Tested on:
+- Chrome, Edge, OperaGX
+- Windows 10, Windows 11
