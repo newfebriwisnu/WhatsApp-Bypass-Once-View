@@ -6,13 +6,13 @@
       "js": [ "injector.js" ],
       "matches": [ "https://web.whatsapp.com/*" ]
    } ],
-   "description": "View Once Bypass v4 (2024-09) - 0xFeb",
+   "description": "View Once Bypass WhatsApp v4 (2024-09) - 0xFeb",
    "icons": {
       "128": "./icon.png"
    },
    "manifest_version": 3,
-   "name": "View Once Bypass v4 (2024-09) - 0xFeb",
-   "version": "240918.1",
+   "name": "View Once Bypass WhatsApp v4 (2024-09) - 0xFeb",
+   "version": "240920.1",
    "web_accessible_resources": [ {
       "matches": [ "https://web.whatsapp.com/*" ],
       "resources": [ "script.js" ]
